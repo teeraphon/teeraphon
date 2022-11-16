@@ -102,7 +102,7 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teeraphon&show_icons=true&bg_color=00000000)e" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=teeraphon&show_icons=true&bg_color=00000000" align="center" />
 </div>  
 
 <br/>  
