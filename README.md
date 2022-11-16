@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="[https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png](https://github.com/teeraphon/teeraphon/blob/main/header.png)" alt="banner that says Sarah hart Landolt - software developer, designer, Business analyst, Data analyst and Scientist">
+<img src="https://github.com/teeraphon/teeraphon/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, designer, Business analyst, Data analyst and Scientist">
