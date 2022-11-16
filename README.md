@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Teeraphon, a part-time full-stack freelance developer, data analyst, data scientist 👨‍💻 </div>  
+### **HELLO!!, I'm teeraphon, or please call me PP 😃😃**  
   
 
-- 🔭 I’m currently seeking for a job as data scientist or related opsition  
+- 🔭  I’m currently seeking a job as a data scientist or a related positions  
   
 
-- 🌱 I’m currently learning Hyperledger, Kubernetes and ohter intersting Dev-ops tools  
+- 🌱 I’m currently learning Hyperledger, Kubernetes, and other interesting Dev-ops tools  
+  
+
+- ⚡ Enthusiastic and passionate new technologies learner  
   
 
 - ❓ Need more information? Don't hesitate to contact me!  
-  
-
-- ⚡ Enthusiastic and passionate new tecnologies learner  
   
 
 <br/>  
